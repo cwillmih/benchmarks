@@ -1,0 +1,9 @@
+{foreach $array as $item}
+    {$item.name}: {$item.age}
+{foreachelse}
+    Nothing here!
+{/foreach}
+
+{if $bool|default:false}
+	BOOL!
+{/if}

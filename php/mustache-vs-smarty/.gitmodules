@@ -1,0 +1,7 @@
+[submodule "mustache.php"]
+	path = mustache.php
+	url = https://github.com/mustache/spec.git
+	update = a4ab234
+[submodule "Smarty-3.1.14"]
+	path = Smarty-3.1.14
+	url = https://github.com/non-existent/smarty.git
